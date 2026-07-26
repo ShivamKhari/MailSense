@@ -1,7 +1,7 @@
-# MailMinds-AI
-# 📧 MailMinds AI – Gmail AI Reply Assistant
+# MailSense-AI
+# 📧 MailSense AI – Gmail AI Reply Assistant
 
-MailMinds AI is a Chrome Extension integrated with a Java Spring Boot backend that uses AI to generate intelligent email replies directly in Gmail. It leverages Google Gemini API for natural language generation and enhances productivity by reducing manual email writing effort.
+MailSenses AI is a Chrome Extension integrated with a Java Spring Boot backend that uses AI to generate intelligent email replies directly in Gmail. It leverages Google Gemini API for natural language generation and enhances productivity by reducing manual email writing effort.
 
 ---
 
@@ -27,7 +27,7 @@ MailMinds AI is a Chrome Extension integrated with a Java Spring Boot backend th
 
 ## 📂 Project Structure
 
-MailMinds-AI/
+MailSense-AI/
 ├── backend/ # Spring Boot project
 ├── frontend/ # Chrome extension (contentScript.js, manifest.json)
 └── README.md # This file
